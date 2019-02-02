@@ -4,7 +4,7 @@
     <div id='photo-gallery'>
       <div class="gallery">
         <router-link class="nav-link" to="/galleries/projects">
-          <img src="../../photos/1990_2040/25.jpg" id="projects" alt="projects" />
+          <img src="../../photos/family/brothersShoes1.jpg" id="projects" alt="projects" />
         </router-link>
         <div class="desc">
           Projects

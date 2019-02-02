@@ -29,83 +29,103 @@
         images : [
           {
             pic: require("../../photos/drawings/drawing1.jpg"),
-            desc: 'Drawing',
-            name: 'Drawing'
+            desc: 'black and white',
+            name: 'black and white'
           },
           {
             pic: require("../../photos/drawings/drawing2.jpg"),
-            desc: 'Drawing',
+            desc: 'black and white',
           },
           {
             pic: require("../../photos/drawings/drawing3.jpg"),
-            desc: 'Drawing',
+            desc: 'black and white',
           },
           {
             pic: require("../../photos/drawings/drawing4.jpg"),
-            desc: 'Drawing',
+            desc: 'black and white',
           },
           {
             pic: require("../../photos/drawings/drawing5.jpg"),
-            desc: 'Drawing',
+            desc: 'black and white',
           },
           {
             pic: require("../../photos/drawings/drawing6.jpg"),
-            desc: 'Drawing',
+            desc: 'black and white',
           },
           {
             pic: require("../../photos/drawings/drawing7.jpg"),
-            desc: 'Drawing',
+            desc: 'black and white',
           },
           {
             pic: require("../../photos/drawings/drawing8.jpg"),
-            desc: 'Drawing',
+            desc: 'black and white',
           },
           {
             pic: require("../../photos/drawings/drawing9.jpg"),
-            desc: 'Drawing',
+            desc: 'black and white',
           },
           {
             pic: require("../../photos/drawings/drawing10.jpg"),
-            desc: 'Drawing',
+            desc: 'black and white',
           },
         ],
         images2: [
           {
             pic: require("../../photos/thailand/drawing1.png"),
-            desc: 'Thailand Drawing',
-            name: 'Thailand Drawings'
+            desc: 'Thailand',
+            name: 'Thailand'
           },
           {
             pic: require("../../photos/thailand/drawing2.png"),
-            desc: 'Thailand Drawing',
+            desc: 'Thailand',
           },
           {
             pic: require("../../photos/thailand/drawing3.png"),
-            desc: 'Thailand Drawing',
+            desc: 'Thailand',
           },
           {
             pic: require("../../photos/thailand/drawing4.png"),
-            desc: 'Thailand Drawing',
+            desc: 'Thailand',
           },
           {
             pic: require("../../photos/thailand/drawing5.png"),
-            desc: 'Thailand Drawing',
+            desc: 'Thailand',
           },
           {
             pic: require("../../photos/thailand/drawing6.png"),
-            desc: 'Thailand Drawing',
+            desc: 'Thailand',
           },
           {
             pic: require("../../photos/thailand/drawing7.png"),
-            desc: 'Thailand Drawing',
+            desc: 'Thailand',
           },
         ],
         images3: [
           {
-            pic: require("../../photos/thailand/drawing1.png"),
-            desc: 'Thailand Drawing',
-            name: 'Other Drawings'
-          }
+            pic: require("../../photos/awesiinh/awesiinh1.jpg"),
+            desc: 'awesiinh1',
+            name: 'Awesiinh'
+          },
+          {
+            pic: require("../../photos/awesiinh/awesiinh2.jpg"),
+            desc: 'awesiinh'
+          },
+          {
+            pic: require("../../photos/awesiinh/awesiinh3.jpg"),
+            desc: 'awesiinh'
+          },
+          {
+            pic: require("../../photos/awesiinh/awesiinh4.jpg"),
+            desc: 'awesiinh'
+          },
+          {
+            pic: require("../../photos/awesiinh/awesiinh5.jpg"),
+            desc: 'awesiinh'
+          },
+          {
+            pic: require("../../photos/awesiinh/awesiinh6.jpg"),
+            desc: 'awesiinh'
+          },
         ]
       }
     },
